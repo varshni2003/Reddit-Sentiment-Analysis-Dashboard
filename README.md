@@ -7,11 +7,12 @@ Interactive sentiment dashboard analysing 37,000+ Reddit comments using Python, 
 ---
 
 ## 📁 Project Structure
-
-├── Reddit_Data.csv                    # Raw dataset
-├── Reddit_Sentiment_Analysis.ipynb    # Google Colab notebook
-├── reddit_dashboard.html              # Final interactive dashboard
+```
+├── Reddit_Data.csv                       # Raw dataset
+├── Reddit_Sentiment_Analysis.ipynb       # Google Colab notebook
+├── reddit_dashboard.html                 # Final interactive dashboard
 └── README.md
+```
 
 ---
 
